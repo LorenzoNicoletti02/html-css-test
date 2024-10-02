@@ -1,0 +1,35 @@
+h2 {
+    text-align: center;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.green-text {
+    color: chartreuse;
+    text-align: center;
+}
+
+a{
+    color: inherit;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 10px 16px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+p{
+    color: blue;
+}
+
+.green-p{
+color: chartreuse;
+}
